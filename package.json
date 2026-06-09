@@ -3,6 +3,6 @@
 {
   "name": "flowforge-static-test",
   "scripts": {
-    "build": "mkdir dist && echo '<h1>FlowForge Works</h1>' > dist/index.html"
+    "build": "node index.js"
   }
 }
